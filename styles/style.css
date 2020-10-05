@@ -1,0 +1,28 @@
+html {
+    font-size: 22px;
+box-sizing: border-box;
+background-color: blue;
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #cccbec;
+    padding: 0 60px 60px 60px;
+    border: 5px solid rgb(156, 0, 0); 
+}
+h1 {
+  font-size: 60px; 
+  font-family: 'Abril Fatface', cursive; 
+  text-align: center;   
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+img {
+    display: block;
+    margin: 0 auto;  
+}
+
